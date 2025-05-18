@@ -1,0 +1,11 @@
+@media screen and (max-width: 992px) {
+  .w-80 {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  #home h1 {
+    font-size: 1.875rem;
+  }
+}
